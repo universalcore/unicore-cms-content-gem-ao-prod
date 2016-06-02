@@ -6,26 +6,26 @@
   "primary_category": "b224ca3e6e394e529b6cb2368d983991", 
   "created_at": "2015-12-21T11:45:53+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-29T06:13:16.781356+00:00", 
+  "modified_at": "2016-06-02T07:04:17.957055+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
     "6c2b1ddfdce346699016d3476ed15c8b"
   ], 
   "id": null, 
-  "content": "\r\nAprender quando gastar e quando economizar \u00e9 o segredo para realizar os seus sonhos!\r\n\u00c9 dif\u00edcil n\u00e3o gastar quando a minha amiga Neha sempre tem dinheiro para um lanche delicioso depois da escola ou quando o len\u00e7o perfeito que eu tinha visto est\u00e1 em liquida\u00e7\u00e3o agora. E mesmo quando eu prometi a mim mesma economizar, sempre acabo abrindo a minha bolsa...\r\n\r\nEmbora n\u00e3o haja nada de errado em se mimar de vez em quando, tamb\u00e9m \u00e9 importante entender que comprar algo pequeno agora pode significar perder algo ainda melhor depois. Ent\u00e3o, como saber no que vale a pena gastar? \r\n\r\n**Voc\u00ea precisa de algo ou s\u00f3 tem que ter?** Pode parecer que aqueles sapatos lindos s\u00e3o algo que voc\u00ea tem que ter (principalmente quando h\u00e1 uma ocasi\u00e3o especial em breve!), mas voc\u00ea realmente precisa deles? Uma necessidade \u00e9 algo sem o qual voc\u00ea n\u00e3o pode ficar \u2013 comida saud\u00e1vel, sapatos para a escola, um rem\u00e9dio quando est\u00e1 resfriada. J\u00e1 o desejo, bom, n\u00e3o \u00e9 nada mais do que isso! \u00c9 algo que voc\u00ea gostaria de ter, mas sem o qual pode sobreviver.\r\n\r\nNeha sempre chama as suas compras da moda \u2013 como os seus brincos novos \u2013 de um investimento. Mas ser\u00e1 que elas s\u00e3o mesmo? Os brincos da Neha parecem legais hoje, mas podem durar apenas alguns meses. Um bom investimento \u00e9 algo que vai durar anos ou benefici\u00e1-la por muitos meses futuros. Ent\u00e3o, em vez de comprar algo que est\u00e1 na moda nesta esta\u00e7\u00e3o, mas que n\u00e3o estar\u00e1 na pr\u00f3xima, pode ser melhor para Neha economizar esse dinheiro e comprar sapatos para a escola no ano que vem. As necessidades nem sempre t\u00eam que ser algo chato ou s\u00e9rio \u2013 podem ser coisas divertidas tamb\u00e9m \u2013 como o dinheiro para fazer aquele curso de computa\u00e7\u00e3o no centro comunit\u00e1rio na cidade!\r\n\r\nOs melhores tipos de investimento s\u00e3o coisas que podem mudar a sua vida \u2013 uma m\u00e1quina de costura para voc\u00ea come\u00e7ar a ganhar o seu pr\u00f3prio dinheiro ou a anuidade para voc\u00ea estudar mais. \u00c9 provavelmente para essas coisas que voc\u00ea vai ter que economizar. Isso significa dizer n\u00e3o para um len\u00e7o bonito hoje, mas vale a pena esperar, e voc\u00ea vai ficar super orgulhosa de si mesma quando finalmente conseguir juntar dinheiro e realizar o seu grande sonho!\r\n\r\nQuer come\u00e7ar a economizar? Aqui est\u00e3o algumas dicas para voc\u00ea come\u00e7ar [link para Seu guia para economizar]\r\n", 
-  "source": null, 
+  "content": "Aprender quando gastar e quando economizar \u00e9 o segredo para realizar os seus sonhos!\r\n\u00c9 dif\u00edcil n\u00e3o gastar quando a minha amiga Neha sempre tem dinheiro para um lanche delicioso depois da escola ou quando o len\u00e7o perfeito que eu tinha visto est\u00e1 em liquida\u00e7\u00e3o agora. E mesmo quando eu prometi a mim mesma economizar, sempre acabo abrindo a minha bolsa...\r\n\r\nEmbora n\u00e3o haja nada de errado em se mimar de vez em quando, tamb\u00e9m \u00e9 importante entender que comprar algo pequeno agora pode significar perder algo ainda melhor depois. Ent\u00e3o, como saber no que vale a pena gastar? \r\n\r\n**Voc\u00ea precisa de algo ou s\u00f3 tem que ter?** Pode parecer que aqueles sapatos lindos s\u00e3o algo que voc\u00ea tem que ter (principalmente quando h\u00e1 uma ocasi\u00e3o especial em breve!), mas voc\u00ea realmente precisa deles? Uma necessidade \u00e9 algo sem o qual voc\u00ea n\u00e3o pode ficar \u2013 comida saud\u00e1vel, sapatos para a escola, um rem\u00e9dio quando est\u00e1 resfriada. J\u00e1 o desejo, bom, n\u00e3o \u00e9 nada mais do que isso! \u00c9 algo que voc\u00ea gostaria de ter, mas sem o qual pode sobreviver.\r\n\r\nNeha sempre chama as suas compras da moda \u2013 como os seus brincos novos \u2013 de um investimento. Mas ser\u00e1 que elas s\u00e3o mesmo? Os brincos da Neha parecem legais hoje, mas podem durar apenas alguns meses. Um bom investimento \u00e9 algo que vai durar anos ou benefici\u00e1-la por muitos meses futuros. Ent\u00e3o, em vez de comprar algo que est\u00e1 na moda nesta esta\u00e7\u00e3o, mas que n\u00e3o estar\u00e1 na pr\u00f3xima, pode ser melhor para Neha economizar esse dinheiro e comprar sapatos para a escola no ano que vem. As necessidades nem sempre t\u00eam que ser algo chato ou s\u00e9rio \u2013 podem ser coisas divertidas tamb\u00e9m \u2013 como o dinheiro para fazer aquele curso de computa\u00e7\u00e3o no centro comunit\u00e1rio na cidade!\r\n\r\nOs melhores tipos de investimento s\u00e3o coisas que podem mudar a sua vida \u2013 uma m\u00e1quina de costura para voc\u00ea come\u00e7ar a ganhar o seu pr\u00f3prio dinheiro ou a anuidade para voc\u00ea estudar mais. \u00c9 provavelmente para essas coisas que voc\u00ea vai ter que economizar. Isso significa dizer n\u00e3o para um len\u00e7o bonito hoje, mas vale a pena esperar, e voc\u00ea vai ficar super orgulhosa de si mesma quando finalmente conseguir juntar dinheiro e realizar o seu grande sonho!\r\n\r\nQuer come\u00e7ar a economizar? Aqui est\u00e3o algumas dicas para voc\u00ea come\u00e7ar [link para Seu guia para economizar]\r\n", 
+  "source": "4af1a323274a45a68bfff73fe3871bd1", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 18, 
+  "position": 28, 
   "image_host": "http://thumbor.unicore.io", 
-  "slug": "por-que-eu-devo-economizar", 
+  "slug": "why-should-i-save", 
   "uuid": "0eaea05914ec46e1aa83ce196369c4e3"
 }
